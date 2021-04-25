@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Testmap</title>
+    <topicref href="link_topic.dita"/>
+    <topicref href="indirect_topic.dita"/>
+    <topicref href="direct_topic.dita"/>
+    <mapref href="keystore.ditamap" format="ditamap"/>
+</map>

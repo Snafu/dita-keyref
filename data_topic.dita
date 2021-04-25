@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="data_topic">
+    <title>Data topic</title>
+    <shortdesc></shortdesc>
+    <refbody id="actual_body">
+        <table frame="all" rowsep="1" colsep="1" id="data_table">
+            <title>This is the table</title>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Foo</entry>
+                        <entry>Bar</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Hello</entry>
+                        <entry>world</entry>
+                    </row>
+                    <row>
+                        <entry>how</entry>
+                        <entry>are</entry>
+                    </row>
+                    <row>
+                        <entry>you</entry>
+                        <entry>doing</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>
