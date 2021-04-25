@@ -3,5 +3,20 @@
 <reference id="indirect_topic">
     <title>Indirect topic</title>
     <shortdesc></shortdesc>
-    <refbody conkeyref="content/actual_body"> </refbody>
+    <refbody id="pointer" conkeyref="content/actual_body">
+        <section>
+            <title>Placeholder</title>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+        </section>
+    </refbody>
 </reference>
