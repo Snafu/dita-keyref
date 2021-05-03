@@ -2,8 +2,10 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Testmap</title>
-    <topicref href="link_topic.dita"/>
-    <topicref href="indirect_topic.dita"/>
-    <topicref href="direct_topic.dita"/>
+    <topicref href="link_topic.dita" id="link_topic_1"/>
+    <topicref href="direct_topic.dita" id="direct_topic_1"/>
+    <topicref href="indirect_topic.dita" id="indirect_topic_1"/>
+    <topicref href="second_redirect_topic.dita" id="second_redirect_topic_1"/>
+    <topicref href="content_topic.dita" id="content_topic_1"/>
     <mapref href="keystore.ditamap" format="ditamap"/>
 </map>

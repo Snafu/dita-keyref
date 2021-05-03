@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="second_redirect">
+    <title>Second_redirect</title>
+    <refbody id="actual_body" conkeyref="indirect_topic/pointer"/>
+</reference>

@@ -5,8 +5,10 @@
     <body>
         <p>This is a link to the data table in the indirect topic
             <xref keyref="indirect_topic/data_table">click</xref>.</p>
-        <p>This is another link to the data table <xref keyref="content/data_table"
-            >click</xref>.</p>
+        <p>This is link to the first table row of indirect topic <xref keyref="indirect_topic/firstrow">click</xref>.</p>
+        <p>This is a link to the data table in the second redirect topic
+            <xref keyref="second_redirect_topic/data_table">click</xref>.</p>
+        <p>This is link to the first table row of second redirect topic <xref keyref="second_redirect_topic/firstrow">click</xref>.</p>
         <p>This is a link to the direct topic <xref keyref="direct_topic/direct_data">click</xref>.</p>
         <p>&nbsp;</p>
         <p>&nbsp;</p>

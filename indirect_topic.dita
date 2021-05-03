@@ -3,7 +3,7 @@
 <reference id="indirect_topic">
     <title>Indirect topic</title>
     <shortdesc></shortdesc>
-    <refbody id="pointer" conkeyref="content/actual_body">
+    <refbody id="pointer" conkeyref="content_topic/content_body">
         <section>
             <title>Placeholder</title>
             <p>&nbsp;</p>
